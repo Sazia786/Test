@@ -10,6 +10,7 @@ public class UserManagementServiceApplication {
 		
 		//test commentgg
 		//gydsidla
+		//Merging changes
 		
 		SpringApplication.run(UserManagementServiceApplication.class, args);
 	}
